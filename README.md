@@ -32,10 +32,9 @@ It helps users check current weather conditions such as temperature, humidity, a
    ```bash
    git clone https://github.com/nikita0x01/ClimaView.git
 
-   
-2.Navigate to the project folder
 ```bash
-  cd ClimaView
+ 2.Navigate to the project folder
+cd ClimaView
 
 3.Install dependencies
 ```bash
