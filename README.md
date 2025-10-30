@@ -34,14 +34,17 @@ It helps users check current weather conditions such as temperature, humidity, a
 
    
 2.Navigate to the project folder
+```bash
   cd ClimaView
 
-
 3.Install dependencies
+```bash
   npm run dev
 
 4.Run the development server
+```bash
   npm run dev
 
 5.Open your browser at
+```bash
     http://localhost:5173/
